@@ -1,0 +1,6 @@
+{
+  "name": "Svblog",
+  "tagline": "Blog creat cu Symfony 2.8.6",
+  "body": "svblog\r\n======\r\n\r\nProiect creat cu Symfony 2.8.6, urmand tutorialul de la adresa http://tutorial.symblog.co.uk/\r\nUn demo poate fi gasit la adresa http://symblog.co.uk/\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
